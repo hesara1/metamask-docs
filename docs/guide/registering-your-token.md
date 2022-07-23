@@ -21,7 +21,7 @@ If you'd like to integrate suggesting a token into your own web app, you can fol
 const tokenAddress = '0xd00981105e61274c8a5cd5a88fe7e037d935b513';
 const tokenSymbol = 'TUT';
 const tokenDecimals = 18;
-const tokenImage = 'http://placekitten.com/200/300';
+const tokenImage = '(https://user-images.githubusercontent.com/86568441/180605466-e1be3786-35cd-4e93-9d24-cbe5b2cbb07f.png)';
 
 try {
   // wasAdded is a boolean. Like any RPC method, an error may be thrown.
